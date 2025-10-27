@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodePulse.AI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dec0bfb1fd36f5a6d891295ad73f3f1758061c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodePulse.AI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodePulse.AI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
