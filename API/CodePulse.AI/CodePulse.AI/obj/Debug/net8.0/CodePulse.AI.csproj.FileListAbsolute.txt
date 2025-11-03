@@ -137,3 +137,4 @@ C:\Users\kwanele\Documents\PROJECTS\CodePulse\API\CodePulse.AI\CodePulse.AI\obj\
 C:\Users\kwanele\Documents\PROJECTS\CodePulse\API\CodePulse.AI\CodePulse.AI\obj\Debug\net8.0\CodePulse.AI.pdb
 C:\Users\kwanele\Documents\PROJECTS\CodePulse\API\CodePulse.AI\CodePulse.AI\obj\Debug\net8.0\CodePulse.AI.genruntimeconfig.cache
 C:\Users\kwanele\Documents\PROJECTS\CodePulse\API\CodePulse.AI\CodePulse.AI\obj\Debug\net8.0\ref\CodePulse.AI.dll
+C:\Users\kwanele\Documents\PROJECTS\CodePulse\API\CodePulse.AI\CodePulse.AI\obj\Debug\net8.0\CodePulse.AI.sourcelink.json

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kwanele\\Documents\\PROJECTS\\CodePulse\\API\\CodePulse.AI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\codepulse.ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\codepulse.ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\codepulse.ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\codepulse.ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|solutionrelative:codepulse.ai\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8704635C-DDD2-46A1-9D62-846E8C180008}|CodePulse.AI\\CodePulse.AI.csproj|c:\\users\\kwanele\\documents\\projects\\codepulse\\api\\codepulse.ai\\codepulse.ai\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 338,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\CodePulse\\API\\CodePulse.AI\\CodePulse.AI\\Repositories\\Implementation\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "CodePulse.AI\\Repositories\\Implementation\\CategoryRepository.cs",
@@ -82,11 +82,12 @@
               "RelativeToolTip": "CodePulse.AI\\Repositories\\Implementation\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:00:58.763Z"
+              "WhenOpened": "2025-10-22T15:00:58.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\CodePulse\\API\\CodePulse.AI\\CodePulse.AI\\Program.cs",
               "RelativeDocumentMoniker": "CodePulse.AI\\Program.cs",
@@ -94,17 +95,18 @@
               "RelativeToolTip": "CodePulse.AI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:59:04.262Z"
+              "WhenOpened": "2025-10-22T13:59:04.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\CodePulse\\API\\CodePulse.AI\\CodePulse.AI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "CodePulse.AI\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\CodePulse\\API\\CodePulse.AI\\CodePulse.AI\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "CodePulse.AI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T14:10:23.606Z",
               "EditorCaption": ""
@@ -119,11 +121,12 @@
               "RelativeToolTip": "CodePulse.AI\\Repositories\\Interface\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:59:05.982Z"
+              "WhenOpened": "2025-10-22T14:59:05.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CodePulse.AI.csproj",
               "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\CodePulse\\API\\CodePulse.AI\\CodePulse.AI\\CodePulse.AI.csproj",
               "RelativeDocumentMoniker": "CodePulse.AI\\CodePulse.AI.csproj",
@@ -131,7 +134,8 @@
               "RelativeToolTip": "CodePulse.AI\\CodePulse.AI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T14:44:54.526Z"
+              "WhenOpened": "2025-10-22T14:44:54.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
